@@ -1,0 +1,1 @@
+-keep class com.khatapro.ledger.data.db.** { *; }
